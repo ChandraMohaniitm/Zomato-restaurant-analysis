@@ -25,7 +25,7 @@ The company wants to create a report to understand the pattern and sales of the 
 - created pivot table and inserted charts based on questions. 
 
 ## Dashboard 
-Img
+<a href="https://github.com/ChandraMohaniitm/Zomato-restaurant-analysis/blob/main/Screenshot%202024-12-31%20220903.png">Dashboard Image</a>
 
 ## Project Insights 
  
