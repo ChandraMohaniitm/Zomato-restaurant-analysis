@@ -6,7 +6,7 @@
 The company wants to create a report to understand the pattern and sales of the restaurants to grow more Sales in future.
 
 ## Dataset 
-Link
+<a href="https://github.com/ChandraMohaniitm/Zomato-restaurant-analysis/blob/main/restaurant_data_cl.xlsx"</a>
 
 ## Questions(KPIs)
 - What's the total restaurants.
