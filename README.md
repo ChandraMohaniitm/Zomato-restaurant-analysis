@@ -35,5 +35,6 @@ The company wants to create a report to understand the pattern and sales of the 
 - The total cuisines available are 121.
 - The maximum number of restaurants are located in India, i.e., New Delhi, Gurgaon, Ghaziabad, and Faridabad.
 - New Delhi, Gurgaon, Noida, and Jakarta are the hot cities for restaurant revenue.
-- Almost 76% of people don’t order food online.  The most trending cuisines are North Indian, North Indian Mughlai, North - Indian Chinese, Fast Food, Chinese, and Cafes.
+- Almost 76% of people don’t order food online.
+- The most trending cuisines are North Indian, North Indian Mughlai, North Indian Chinese, Fast Food, Chinese, and   Cafes.
 
